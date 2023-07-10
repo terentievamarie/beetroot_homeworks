@@ -1,5 +1,3 @@
-
-
 def calculate_2(a,b):
     try:
         return int(a)**2/int(b)
