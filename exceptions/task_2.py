@@ -1,4 +1,4 @@
-def calculate_2(a,b):
+def calculate_2(a, b):
     try:
         return int(a)**2/int(b)
     except ZeroDivisionError:
@@ -6,4 +6,6 @@ def calculate_2(a,b):
     except ValueError:
         print("You must enter numbers!Try again")
 
-print(calculate_2(input("Please,enter first number: "),input("Please,enter second number: ")))
+
+print(calculate_2(input("Please,enter first number: "),
+      input("Please,enter second number: ")))
