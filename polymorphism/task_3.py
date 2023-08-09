@@ -107,8 +107,3 @@ if __name__=='__main__':
 
     result_3=fraction_1 + fraction_2 == Fraction(3, 4)
     print(result_3)
-
-
-
-        
-    

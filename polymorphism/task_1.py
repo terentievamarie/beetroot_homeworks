@@ -24,8 +24,4 @@ dog_1=Dog()
 animal_talk(dog_1)
 
 cat_1=Cat()
-animal_talk(cat_1)
-
-
-
-    
+animal_talk(cat_1)   
