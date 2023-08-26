@@ -17,4 +17,3 @@ WHERE name = "Alice";
 
 DELETE FROM students
 WHERE age = 22;
-
